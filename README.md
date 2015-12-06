@@ -1,7 +1,7 @@
 # BHMath
 
 BHMath is an open source (GPL v3) mathematical expression parser. BHMath is written in Java and supports
-the most common operators (^, *, /, +, -), as well as parentheses. 
+the most common arithmetric operators (^, *, /, +, -), as well as parentheses. 
 
 BHMath takes a mathematical expression in the form of a String as an argument, and returns a double.
 
