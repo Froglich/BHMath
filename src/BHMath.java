@@ -26,7 +26,7 @@
 
 import java.util.ArrayList;
 
-public class DoMath {
+public class BHMath {
     //Do the simple parts here, like + and -
     private static Solution doSimpleMath(String a, String o, String b){ 	// a = first value, o = operator, b = second value
         Solution result = new Solution();
