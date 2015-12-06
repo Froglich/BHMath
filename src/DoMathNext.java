@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2015 Kim Lindgren, the Borderstone Project
+ * Copyright (C) 2015 Kim Lindgren
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -22,7 +22,7 @@ import java.util.ArrayList;
  * and a newer class, and uses the best parts of both.
  */
 
-public class BHMath {
+public class DoMathNext {
     private final ComponentList components = new ComponentList();
     private static final String[] operators = {"^", "*", "/", "-", "+"};
 
